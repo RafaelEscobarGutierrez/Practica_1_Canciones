@@ -15,7 +15,6 @@ li::after{
     content: " | ";
 }
 .menu-nav{
-    position: fixed;
     left: 0%;
     right: 0%;
     top: 0%;
@@ -55,8 +54,9 @@ h1{
 
 main{
     width: 85%;
-    margin: 90px auto;
+    margin: 30px auto;
     background-color: rgba(0, 255, 255, 0.432);
+    
 }
 
 /* ##################################### */
